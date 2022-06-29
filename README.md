@@ -222,3 +222,9 @@ Updates published to the application’s Helm chart are continuously synced by F
     kubectl port-forward ${podname} -n testns 8081:3000
     curl http://localhost:8081/hello
     ```
+
+# License
+This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
+
+# Author
+[Ram Vasireddy](https://github.com/ramvasi)
